@@ -1,0 +1,11 @@
+      / GOWCK /
+-A snipes clone in Go-
+
+req-
+	line/box drawing-
+		Draw walls given coordinates within gamespace
+		([x,y],[x,y],...)
+
+
+	
+
